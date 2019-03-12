@@ -1,7 +1,8 @@
 # C sharp homework
 
-collection of C Sharp  learning homework 
-完成北大[C#课程](https://www.icourse163.org/learn/PKU-1001663016?tid=1002052006#/)时所完成的课后作业。代表性的记录如下。
+- collection of C Sharp  learning homework 
+
+- 完成北大[C#课程](https://www.icourse163.org/learn/PKU-1001663016?tid=1002052006#/)时所完成的课后作业。代表性的记录如下。
 
 - 爬虫
 
